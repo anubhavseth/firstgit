@@ -1,3 +1,7 @@
 this is the README file.
+<<<<<<< HEAD
 one more line.
 this line was inserted from the master branch
+=======
+the test branch is here
+>>>>>>> test
